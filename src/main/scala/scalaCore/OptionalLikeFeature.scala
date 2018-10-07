@@ -1,5 +1,10 @@
 package scalaCore
 
+/**
+  * Sample implementation of Java Optional class
+  * Scala contains its own class - Option, Some or None which should be use
+  * Additionally, class contains simple usage of implicit function
+  */
 object OptionalLikeFeature {
 
   def main(args: Array[String]): Unit = {
